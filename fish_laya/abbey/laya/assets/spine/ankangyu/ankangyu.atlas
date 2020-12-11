@@ -1,0 +1,181 @@
+
+ankangyu.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001
+  rotate: false
+  xy: 2, 4
+  size: 278, 164
+  orig: 278, 164
+  offset: 0, 0
+  index: -1
+002
+  rotate: false
+  xy: 888, 413
+  size: 99, 97
+  orig: 99, 97
+  offset: 0, 0
+  index: -1
+003
+  rotate: false
+  xy: 282, 2
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+004
+  rotate: true
+  xy: 314, 71
+  size: 97, 85
+  orig: 98, 87
+  offset: 1, 1
+  index: -1
+005
+  rotate: true
+  xy: 485, 86
+  size: 73, 54
+  orig: 74, 55
+  offset: 0, 0
+  index: -1
+006
+  rotate: false
+  xy: 338, 186
+  size: 114, 73
+  orig: 114, 73
+  offset: 0, 0
+  index: -1
+007
+  rotate: false
+  xy: 2, 170
+  size: 334, 340
+  orig: 334, 341
+  offset: 0, 1
+  index: -1
+008
+  rotate: false
+  xy: 338, 261
+  size: 172, 75
+  orig: 174, 75
+  offset: 0, 0
+  index: -1
+009
+  rotate: true
+  xy: 282, 22
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+010
+  rotate: true
+  xy: 989, 374
+  size: 38, 33
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+011
+  rotate: true
+  xy: 616, 273
+  size: 57, 93
+  orig: 57, 93
+  offset: 0, 0
+  index: -1
+012
+  rotate: false
+  xy: 454, 161
+  size: 50, 98
+  orig: 50, 98
+  offset: 0, 0
+  index: -1
+013
+  rotate: false
+  xy: 989, 414
+  size: 33, 96
+  orig: 35, 101
+  offset: 0, 5
+  index: -1
+014
+  rotate: false
+  xy: 282, 66
+  size: 30, 102
+  orig: 30, 102
+  offset: 0, 0
+  index: -1
+015
+  rotate: true
+  xy: 780, 448
+  size: 62, 106
+  orig: 62, 106
+  offset: 0, 0
+  index: -1
+016
+  rotate: false
+  xy: 512, 271
+  size: 102, 65
+  orig: 102, 66
+  offset: 0, 1
+  index: -1
+017
+  rotate: true
+  xy: 780, 407
+  size: 39, 72
+  orig: 39, 72
+  offset: 0, 0
+  index: -1
+018
+  rotate: true
+  xy: 711, 281
+  size: 49, 78
+  orig: 50, 78
+  offset: 0, 0
+  index: -1
+019
+  rotate: false
+  xy: 772, 340
+  size: 47, 65
+  orig: 47, 65
+  offset: 0, 0
+  index: -1
+020
+  rotate: false
+  xy: 821, 350
+  size: 31, 55
+  orig: 31, 55
+  offset: 0, 0
+  index: -1
+021
+  rotate: true
+  xy: 401, 161
+  size: 23, 46
+  orig: 23, 46
+  offset: 0, 0
+  index: -1
+022
+  rotate: false
+  xy: 654, 436
+  size: 124, 74
+  orig: 124, 74
+  offset: 0, 0
+  index: -1
+023
+  rotate: false
+  xy: 338, 338
+  size: 314, 172
+  orig: 314, 172
+  offset: 0, 0
+  index: -1
+024
+  rotate: true
+  xy: 654, 332
+  size: 102, 116
+  orig: 102, 116
+  offset: 0, 0
+  index: -1
+025
+  rotate: false
+  xy: 401, 71
+  size: 82, 88
+  orig: 82, 88
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+sushepao_01.png
+size: 181,181
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+paohuo2
+  rotate: false
+  xy: 80, 19
+  size: 46, 24
+  orig: 46, 24
+  offset: 0, 0
+  index: -1
+paohuo3
+  rotate: false
+  xy: 2, 2
+  size: 54, 33
+  orig: 54, 33
+  offset: 0, 0
+  index: -1
+ssp_01_001
+  rotate: false
+  xy: 2, 104
+  size: 107, 75
+  orig: 107, 75
+  offset: 0, 0
+  index: -1
+ssp_01_002
+  rotate: false
+  xy: 2, 37
+  size: 76, 65
+  orig: 76, 65
+  offset: 0, 0
+  index: -1
+ssp_01_004
+  rotate: false
+  xy: 80, 45
+  size: 43, 57
+  orig: 43, 58
+  offset: 0, 1
+  index: -1
+ssp_01_006
+  rotate: false
+  xy: 111, 128
+  size: 62, 51
+  orig: 62, 51
+  offset: 0, 0
+  index: -1

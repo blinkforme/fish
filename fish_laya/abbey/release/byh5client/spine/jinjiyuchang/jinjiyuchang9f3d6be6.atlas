@@ -1,0 +1,160 @@
+
+jinjiyuchang.png
+size: 640,638
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eye_lwy_t_smo-a_01
+  rotate: false
+  xy: 627, 588
+  size: 11, 48
+  orig: 32, 64
+  offset: 9, 5
+  index: -1
+eye_lwy_t_smo-a_02
+  rotate: false
+  xy: 150, 107
+  size: 11, 50
+  orig: 32, 64
+  offset: 9, 5
+  index: -1
+eye_lwy_t_smo-a_03
+  rotate: false
+  xy: 261, 125
+  size: 10, 49
+  orig: 32, 64
+  offset: 10, 4
+  index: -1
+eye_lwy_t_smo-a_04
+  rotate: false
+  xy: 273, 138
+  size: 10, 48
+  orig: 32, 64
+  offset: 11, 5
+  index: -1
+eye_lwy_t_smo-a_05
+  rotate: false
+  xy: 627, 538
+  size: 10, 48
+  orig: 32, 64
+  offset: 11, 5
+  index: -1
+eye_lwy_t_smo-a_06
+  rotate: false
+  xy: 314, 311
+  size: 11, 49
+  orig: 32, 64
+  offset: 9, 5
+  index: -1
+eye_lwy_t_smo-a_07
+  rotate: false
+  xy: 627, 482
+  size: 10, 54
+  orig: 32, 64
+  offset: 10, 3
+  index: -1
+eye_lwy_t_smo-a_08
+  rotate: false
+  xy: 327, 311
+  size: 10, 49
+  orig: 32, 64
+  offset: 11, 4
+  index: -1
+eye_lwy_t_smo-a_09
+  rotate: false
+  xy: 339, 313
+  size: 10, 47
+  orig: 32, 64
+  offset: 11, 5
+  index: -1
+eye_lwy_t_smo-a_10
+  rotate: false
+  xy: 339, 269
+  size: 10, 42
+  orig: 32, 64
+  offset: 10, 6
+  index: -1
+jinjiyuchang_jinbi
+  rotate: false
+  xy: 188, 265
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+jinjiyuchang_jinbi2
+  rotate: false
+  xy: 2, 159
+  size: 167, 139
+  orig: 167, 139
+  offset: 0, 0
+  index: -1
+jinjiyuchang_pai
+  rotate: false
+  xy: 2, 391
+  size: 347, 245
+  orig: 347, 245
+  offset: 0, 0
+  index: -1
+mao_1
+  rotate: false
+  xy: 273, 188
+  size: 76, 75
+  orig: 76, 75
+  offset: 0, 0
+  index: -1
+mao_2
+  rotate: false
+  xy: 2, 66
+  size: 146, 91
+  orig: 146, 91
+  offset: 0, 0
+  index: -1
+mao_3
+  rotate: false
+  xy: 351, 205
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+qi1
+  rotate: false
+  xy: 171, 176
+  size: 100, 87
+  orig: 100, 87
+  offset: 0, 0
+  index: -1
+quantao
+  rotate: false
+  xy: 171, 91
+  size: 88, 83
+  orig: 88, 83
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 351, 234
+  size: 274, 402
+  orig: 274, 402
+  offset: 0, 0
+  index: -1
+tieliang
+  rotate: false
+  xy: 2, 300
+  size: 184, 89
+  orig: 184, 89
+  offset: 0, 0
+  index: -1
+xuejia
+  rotate: false
+  xy: 2, 23
+  size: 53, 41
+  orig: 53, 41
+  offset: 0, 0
+  index: -1
+xyx_paopao1
+  rotate: false
+  xy: 314, 362
+  size: 26, 27
+  orig: 28, 31
+  offset: 0, 4
+  index: -1

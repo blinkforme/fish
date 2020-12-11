@@ -1,0 +1,41 @@
+
+H5_qiandai.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1-1_00
+  rotate: false
+  xy: 2, 1170
+  size: 774, 742
+  orig: 774, 742
+  offset: 0, 0
+  index: -1
+1-1_13
+  rotate: false
+  xy: 2, 426
+  size: 774, 742
+  orig: 774, 742
+  offset: 0, 0
+  index: -1
+1-1_14
+  rotate: false
+  xy: 778, 1170
+  size: 774, 742
+  orig: 774, 742
+  offset: 0, 0
+  index: -1
+1-1_15
+  rotate: false
+  xy: 778, 426
+  size: 774, 742
+  orig: 774, 742
+  offset: 0, 0
+  index: -1
+合成-1_00
+  rotate: false
+  xy: 2, 2
+  size: 390, 422
+  orig: 390, 422
+  offset: 0, 0
+  index: -1

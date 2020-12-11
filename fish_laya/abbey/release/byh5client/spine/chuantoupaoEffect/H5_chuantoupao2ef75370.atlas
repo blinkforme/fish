@@ -1,0 +1,125 @@
+
+H5_chuantoupao.png
+size: 535,535
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chauntou1_00
+  rotate: false
+  xy: 159, 8
+  size: 90, 60
+  orig: 214, 143
+  offset: 57, 74
+  index: -1
+chauntou1_01
+  rotate: false
+  xy: 165, 70
+  size: 91, 64
+  orig: 214, 143
+  offset: 60, 67
+  index: -1
+chauntou1_02
+  rotate: false
+  xy: 165, 136
+  size: 116, 68
+  orig: 214, 143
+  offset: 44, 60
+  index: -1
+chauntou1_03
+  rotate: false
+  xy: 343, 259
+  size: 133, 69
+  orig: 214, 143
+  offset: 29, 57
+  index: -1
+chauntou1_04
+  rotate: false
+  xy: 201, 261
+  size: 140, 79
+  orig: 214, 143
+  offset: 26, 47
+  index: -1
+chauntou1_05
+  rotate: false
+  xy: 220, 342
+  size: 148, 88
+  orig: 214, 143
+  offset: 21, 40
+  index: -1
+chauntou1_06
+  rotate: false
+  xy: 389, 433
+  size: 144, 100
+  orig: 214, 143
+  offset: 31, 34
+  index: -1
+chauntou1_07
+  rotate: false
+  xy: 2, 2
+  size: 155, 102
+  orig: 214, 143
+  offset: 12, 26
+  index: -1
+chauntou1_08
+  rotate: false
+  xy: 2, 106
+  size: 161, 115
+  orig: 214, 143
+  offset: 10, 21
+  index: -1
+chauntou1_09
+  rotate: false
+  xy: 2, 223
+  size: 166, 101
+  orig: 214, 143
+  offset: 7, 31
+  index: -1
+chauntou1_10
+  rotate: false
+  xy: 220, 432
+  size: 167, 101
+  orig: 214, 143
+  offset: 12, 29
+  index: -1
+chauntou1_11
+  rotate: false
+  xy: 389, 330
+  size: 141, 101
+  orig: 214, 143
+  offset: 38, 33
+  index: -1
+h5_shusep01_guangxian
+  rotate: false
+  xy: 2, 326
+  size: 197, 98
+  orig: 197, 98
+  offset: 0, 0
+  index: -1
+h5_shusep01_tou
+  rotate: false
+  xy: 431, 164
+  size: 57, 93
+  orig: 57, 93
+  offset: 0, 0
+  index: -1
+h5_shusep02_guangxian
+  rotate: false
+  xy: 2, 426
+  size: 216, 107
+  orig: 216, 107
+  offset: 0, 0
+  index: -1
+h5_shusep02_quan
+  rotate: false
+  xy: 170, 206
+  size: 129, 53
+  orig: 129, 53
+  offset: 0, 0
+  index: -1
+h5_shusep02_tou
+  rotate: false
+  xy: 301, 46
+  size: 128, 211
+  orig: 128, 211
+  offset: 0, 0
+  index: -1

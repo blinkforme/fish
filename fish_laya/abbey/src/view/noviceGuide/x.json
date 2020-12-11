@@ -1,0 +1,229 @@
+{
+  "coindelta": 0,
+  "task_daily_ids": [121, 10, 43, 102],
+  "day_recharge": {
+    "day": 21,
+    "value": 0
+  },
+  "first_charge_reward_accepted": 0,
+  "worldcup_battery_accepted": 0,
+  "coinbase": 445,
+  "is_set_bank_password": 0,
+  "contest_coin": 0,
+  "level": 1,
+  "day_diamond": {
+    "day": 21,
+    "value": 0
+  },
+  "is_bind_tel": 0,
+  "total_recharge": 0,
+  "contest_info": [],
+  "task_daily": {
+    "lg": 0,
+    "f": {
+      "total": 1,
+      "106": 1
+    },
+    "rec_ids": [0],
+    "b": 2,
+    "l": 0,
+    "lv": 1,
+    "g": 6,
+    "goods": []
+  },
+  "autotime": 0,
+  "fish_coin": {
+    "count": 0,
+    "value": 0
+  },
+  "sign_in": {
+    "ref_time": 1529570247,
+    "award_get": 1
+  },
+  "online_award": {
+    "award_get": 0,
+    "leftTime": 0,
+    "ref_time": 1529570240
+  },
+  "goods": [
+    {
+      "i": 21,
+      "n": 2
+    }, {
+      "i": 22,
+      "n": 2
+    }, {
+      "i": 23,
+      "n": 0
+    }, {
+      "i": 24,
+      "n": 1
+    }, {
+      "i": 25,
+      "n": 0
+    }, {
+      "i": 26,
+      "n": 0
+    }, {
+      "i": 27,
+      "n": 0
+    }, {
+      "i": 28,
+      "n": 0
+    }, {
+      "i": 29,
+      "n": 0
+    }
+  ],
+  "charge_times": 0,
+  "create_time": 1529570241,
+  "name": "zm",
+  "skill_res_tip": 0,
+  "score_time": 1529570241,
+  "contest_score": 0,
+  "extra_drop": {
+    "diamond_num": 0,
+    "total_num": 0,
+    "ref_time": 1529570241
+  },
+  "complete_orders": [],
+  "cost_coin": {
+    "time": 1529570278,
+    "v": 15
+  },
+  "vip_exp": 0,
+  "cbattery": 2,
+  "exp": 6,
+  "guide_status": 0,
+  "award_score": 0,
+  "fish_coin_total": 0,
+  "diamond": 0,
+  "task_new": [
+    {
+      "lg": 1,
+      "b": 2,
+      "g": 6,
+      "f": {
+        "total": 1,
+        "106": 1
+      },
+      "rec_ids": [0, 1],
+      "goods": [],
+      "l": 0,
+      "a": 0,
+      "lv": 1
+    }, {
+      "lg": 1,
+      "b": 2,
+      "g": 0,
+      "f": {
+        "total": 0
+      },
+      "rec_ids": [0],
+      "goods": [],
+      "l": 0,
+      "a": 0,
+      "lv": 1
+    }, {
+      "lg": 1,
+      "b": 2,
+      "g": 0,
+      "f": {
+        "total": 0
+      },
+      "rec_ids": [0],
+      "goods": [],
+      "l": 0,
+      "a": 0,
+      "lv": 1
+    }, {
+      "lg": 1,
+      "b": 2,
+      "g": 0,
+      "f": {
+        "total": 0
+      },
+      "rec_ids": [0],
+      "goods": [],
+      "l": 0,
+      "a": 0,
+      "lv": 1
+    }, {
+      "lg": 1,
+      "b": 2,
+      "g": 0,
+      "f": {
+        "total": 0
+      },
+      "rec_ids": [0],
+      "goods": [],
+      "l": 0,
+      "a": 0,
+      "lv": 1
+    }, {
+      "lg": 1,
+      "b": 2,
+      "g": 0,
+      "f": {
+        "total": 0
+      },
+      "rec_ids": [0],
+      "goods": [],
+      "l": 0,
+      "a": 0,
+      "lv": 1
+    }, {
+      "lg": 1,
+      "b": 2,
+      "g": 0,
+      "f": {
+        "total": 0
+      },
+      "rec_ids": [0],
+      "goods": [],
+      "l": 0,
+      "a": 0,
+      "lv": 1
+    }
+  ],
+  "purchased_items": [0],
+  "coin": 445,
+  "login_days": 1,
+  "boom_income": [
+    {
+      "i": 25,
+      "v": 0
+    }, {
+      "i": 26,
+      "v": 0
+    }, {
+      "i": 27,
+      "v": 0
+    }, {
+      "i": 28,
+      "v": 0
+    }, {
+      "i": 29,
+      "v": 0
+    }
+  ],
+  "cost_coin_sync_time": 0,
+  "bcoin": 0,
+  "vip": 0,
+  "cskin": 1,
+  "skins": [1],
+  "consume_diamond": 0,
+  "red_points": 0,
+  "charge_total": 0,
+  "prelogintime": 1529570241,
+  "tel": "",
+  "vip_buy": [0],
+  "battery": 2,
+  "cha_ward": [],
+  "get_coin_total": 6,
+  "avatar": null,
+  "task_daily_refresh_time": 1529570476,
+  "agent": 511,
+  "month_card": [],
+  "shell": 0
+}

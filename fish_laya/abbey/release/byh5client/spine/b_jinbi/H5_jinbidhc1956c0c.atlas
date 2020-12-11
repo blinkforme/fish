@@ -1,0 +1,48 @@
+
+H5_jinbidh.png
+size: 172,170
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jinbi_02
+  rotate: false
+  xy: 2, 95
+  size: 70, 73
+  orig: 72, 76
+  offset: 1, 1
+  index: -1
+jinbi_03
+  rotate: false
+  xy: 2, 20
+  size: 67, 73
+  orig: 72, 76
+  offset: 3, 1
+  index: -1
+jinbi_04
+  rotate: false
+  xy: 71, 20
+  size: 54, 73
+  orig: 72, 76
+  offset: 9, 1
+  index: -1
+jinbi_05
+  rotate: false
+  xy: 127, 21
+  size: 38, 72
+  orig: 72, 76
+  offset: 17, 2
+  index: -1
+jinbi_06
+  rotate: false
+  xy: 139, 96
+  size: 31, 72
+  orig: 72, 76
+  offset: 21, 2
+  index: -1
+jinbi_07
+  rotate: false
+  xy: 74, 95
+  size: 63, 73
+  orig: 72, 76
+  offset: 5, 1
+  index: -1

@@ -1,0 +1,160 @@
+
+H5_bossbaozha.png
+size: 734,732
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H5_baozha1
+  rotate: false
+  xy: 530, 560
+  size: 169, 170
+  orig: 178, 170
+  offset: 4, 0
+  index: -1
+bz 2_00006
+  rotate: false
+  xy: 2, 204
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+bz 2_00009
+  rotate: false
+  xy: 312, 514
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+bz 2_00011
+  rotate: false
+  xy: 220, 204
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+bz 2_00013
+  rotate: false
+  xy: 438, 296
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+d01
+  rotate: false
+  xy: 208, 9
+  size: 117, 92
+  orig: 120, 107
+  offset: 2, 0
+  index: -1
+d02
+  rotate: false
+  xy: 438, 194
+  size: 119, 100
+  orig: 120, 107
+  offset: 1, 0
+  index: -1
+d03
+  rotate: false
+  xy: 208, 103
+  size: 120, 99
+  orig: 120, 107
+  offset: 0, 0
+  index: -1
+d04
+  rotate: false
+  xy: 559, 187
+  size: 119, 107
+  orig: 120, 107
+  offset: 1, 0
+  index: -1
+d05
+  rotate: false
+  xy: 330, 93
+  size: 112, 99
+  orig: 120, 107
+  offset: 8, 5
+  index: -1
+d06
+  rotate: false
+  xy: 312, 422
+  size: 113, 90
+  orig: 120, 107
+  offset: 0, 5
+  index: -1
+d07
+  rotate: false
+  xy: 327, 9
+  size: 101, 82
+  orig: 120, 107
+  offset: 13, 14
+  index: -1
+d08
+  rotate: false
+  xy: 552, 86
+  size: 100, 99
+  orig: 120, 107
+  offset: 16, 0
+  index: -1
+d09
+  rotate: false
+  xy: 444, 92
+  size: 106, 100
+  orig: 120, 107
+  offset: 14, 0
+  index: -1
+fangshe_ad_015
+  rotate: false
+  xy: 2, 422
+  size: 308, 308
+  orig: 308, 308
+  offset: 0, 0
+  index: -1
+jinbi_02
+  rotate: false
+  xy: 430, 17
+  size: 70, 73
+  orig: 72, 76
+  offset: 1, 1
+  index: -1
+jinbi_03
+  rotate: false
+  xy: 654, 112
+  size: 67, 73
+  orig: 72, 76
+  offset: 3, 1
+  index: -1
+jinbi_04
+  rotate: false
+  xy: 502, 11
+  size: 54, 73
+  orig: 72, 76
+  offset: 9, 1
+  index: -1
+jinbi_05
+  rotate: false
+  xy: 558, 12
+  size: 38, 72
+  orig: 72, 76
+  offset: 17, 2
+  index: -1
+jinbi_06
+  rotate: false
+  xy: 701, 658
+  size: 31, 72
+  orig: 72, 76
+  offset: 21, 2
+  index: -1
+jinbi_07
+  rotate: false
+  xy: 654, 37
+  size: 63, 73
+  orig: 72, 76
+  offset: 5, 1
+  index: -1
+picV382_boom_huangJin_002
+  rotate: false
+  xy: 2, 11
+  size: 204, 191
+  orig: 210, 210
+  offset: 3, 7
+  index: -1

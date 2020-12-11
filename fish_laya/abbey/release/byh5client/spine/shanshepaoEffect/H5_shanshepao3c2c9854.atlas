@@ -1,0 +1,104 @@
+
+H5_shanshepao.png
+size: 412,412
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H5_fsp0
+  rotate: false
+  xy: 2, 304
+  size: 115, 106
+  orig: 115, 106
+  offset: 0, 0
+  index: -1
+H5_fsp1
+  rotate: false
+  xy: 224, 302
+  size: 100, 108
+  orig: 101, 108
+  offset: 0, 0
+  index: -1
+H5_fsp__00
+  rotate: false
+  xy: 309, 100
+  size: 89, 100
+  orig: 108, 108
+  offset: 16, 5
+  index: -1
+H5_fsp__01
+  rotate: false
+  xy: 2, 9
+  size: 100, 96
+  orig: 108, 108
+  offset: 6, 6
+  index: -1
+H5_fsp__02
+  rotate: false
+  xy: 209, 202
+  size: 99, 98
+  orig: 108, 108
+  offset: 6, 6
+  index: -1
+H5_fsp__03
+  rotate: false
+  xy: 107, 203
+  size: 100, 99
+  orig: 108, 108
+  offset: 5, 6
+  index: -1
+H5_fsp__04
+  rotate: false
+  xy: 208, 102
+  size: 99, 98
+  orig: 108, 108
+  offset: 6, 7
+  index: -1
+H5_fsp__05
+  rotate: false
+  xy: 2, 203
+  size: 103, 99
+  orig: 108, 108
+  offset: 5, 8
+  index: -1
+H5_fsp__06
+  rotate: false
+  xy: 2, 107
+  size: 102, 94
+  orig: 108, 108
+  offset: 6, 12
+  index: -1
+H5_fsp__07
+  rotate: false
+  xy: 119, 311
+  size: 103, 99
+  orig: 108, 108
+  offset: 5, 8
+  index: -1
+H5_fsp__08
+  rotate: false
+  xy: 206, 2
+  size: 99, 98
+  orig: 108, 108
+  offset: 6, 7
+  index: -1
+H5_fsp__09
+  rotate: false
+  xy: 106, 102
+  size: 100, 99
+  orig: 108, 108
+  offset: 5, 6
+  index: -1
+H5_fsp__10
+  rotate: false
+  xy: 310, 202
+  size: 99, 98
+  orig: 108, 108
+  offset: 6, 6
+  index: -1
+H5_fsp__11
+  rotate: false
+  xy: 104, 4
+  size: 100, 96
+  orig: 108, 108
+  offset: 6, 6
+  index: -1

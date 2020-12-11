@@ -1,0 +1,48 @@
+
+chujipao_02.png
+size: 218,218
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cjp_02_001
+  rotate: false
+  xy: 79, 35
+  size: 89, 74
+  orig: 89, 74
+  offset: 0, 0
+  index: -1
+cjp_02_002
+  rotate: false
+  xy: 2, 111
+  size: 128, 105
+  orig: 128, 105
+  offset: 0, 0
+  index: -1
+cjp_02_003
+  rotate: false
+  xy: 2, 2
+  size: 75, 107
+  orig: 75, 107
+  offset: 0, 0
+  index: -1
+cjp_02_007
+  rotate: false
+  xy: 132, 123
+  size: 47, 52
+  orig: 47, 52
+  offset: 0, 0
+  index: -1
+paohuo2
+  rotate: false
+  xy: 79, 4
+  size: 55, 29
+  orig: 55, 29
+  offset: 0, 0
+  index: -1
+paohuo3
+  rotate: false
+  xy: 132, 177
+  size: 64, 39
+  orig: 64, 39
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,160 @@
+
+H5_shijiebei.png
+size: 658,657
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pao_bao1
+  rotate: false
+  xy: 2, 470
+  size: 185, 185
+  orig: 185, 185
+  offset: 0, 0
+  index: -1
+pao_bao2
+  rotate: false
+  xy: 445, 358
+  size: 123, 135
+  orig: 123, 135
+  offset: 0, 0
+  index: -1
+pao_quan1
+  rotate: false
+  xy: 2, 301
+  size: 167, 167
+  orig: 169, 169
+  offset: 1, 1
+  index: -1
+piaodai_01
+  rotate: false
+  xy: 570, 359
+  size: 48, 50
+  orig: 174, 174
+  offset: 51, 72
+  index: -1
+piaodai_02
+  rotate: false
+  xy: 241, 18
+  size: 63, 64
+  orig: 174, 174
+  offset: 46, 66
+  index: -1
+piaodai_03
+  rotate: false
+  xy: 570, 411
+  size: 86, 87
+  orig: 174, 174
+  offset: 37, 55
+  index: -1
+piaodai_04
+  rotate: false
+  xy: 556, 159
+  size: 94, 101
+  orig: 174, 174
+  offset: 36, 47
+  index: -1
+piaodai_05
+  rotate: false
+  xy: 126, 18
+  size: 113, 117
+  orig: 174, 174
+  offset: 29, 38
+  index: -1
+piaodai_06
+  rotate: false
+  xy: 293, 84
+  size: 114, 120
+  orig: 174, 174
+  offset: 27, 36
+  index: -1
+piaodai_07
+  rotate: false
+  xy: 2, 2
+  size: 122, 133
+  orig: 174, 174
+  offset: 25, 28
+  index: -1
+piaodai_08
+  rotate: false
+  xy: 312, 347
+  size: 131, 140
+  orig: 174, 174
+  offset: 21, 24
+  index: -1
+piaodai_09
+  rotate: false
+  xy: 154, 151
+  size: 137, 148
+  orig: 174, 174
+  offset: 19, 18
+  index: -1
+piaodai_10
+  rotate: false
+  xy: 171, 318
+  size: 139, 150
+  orig: 174, 174
+  offset: 18, 16
+  index: -1
+piaodai_11
+  rotate: false
+  xy: 498, 500
+  size: 145, 155
+  orig: 174, 174
+  offset: 16, 12
+  index: -1
+piaodai_12
+  rotate: false
+  xy: 347, 495
+  size: 149, 160
+  orig: 174, 174
+  offset: 15, 8
+  index: -1
+piaodai_13
+  rotate: false
+  xy: 2, 137
+  size: 150, 162
+  orig: 174, 174
+  offset: 14, 7
+  index: -1
+piaodai_14
+  rotate: false
+  xy: 189, 489
+  size: 156, 166
+  orig: 174, 174
+  offset: 12, 2
+  index: -1
+shexian_78
+  rotate: false
+  xy: 522, 83
+  size: 85, 74
+  orig: 158, 186
+  offset: 54, 46
+  index: -1
+shexian_79
+  rotate: false
+  xy: 556, 262
+  size: 100, 94
+  orig: 158, 186
+  offset: 39, 46
+  index: -1
+shexian_80
+  rotate: false
+  xy: 409, 89
+  size: 111, 115
+  orig: 158, 186
+  offset: 29, 38
+  index: -1
+shexian_81
+  rotate: false
+  xy: 312, 206
+  size: 121, 139
+  orig: 158, 186
+  offset: 29, 25
+  index: -1
+shexian_82
+  rotate: false
+  xy: 445, 211
+  size: 109, 145
+  orig: 158, 186
+  offset: 26, 18
+  index: -1

@@ -1,0 +1,55 @@
+
+shijiebei.png
+size: 192,192
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chi
+  rotate: false
+  xy: 2, 2
+  size: 61, 33
+  orig: 61, 33
+  offset: 0, 0
+  index: -1
+chi_2
+  rotate: false
+  xy: 124, 73
+  size: 39, 51
+  orig: 39, 51
+  offset: 0, 0
+  index: -1
+chi_4
+  rotate: false
+  xy: 64, 61
+  size: 58, 61
+  orig: 58, 61
+  offset: 0, 0
+  index: -1
+pao
+  rotate: false
+  xy: 2, 37
+  size: 60, 85
+  orig: 60, 85
+  offset: 0, 0
+  index: -1
+paohuo2
+  rotate: false
+  xy: 65, 11
+  size: 91, 48
+  orig: 91, 48
+  offset: 0, 0
+  index: -1
+paohuo3
+  rotate: false
+  xy: 2, 124
+  size: 107, 66
+  orig: 107, 66
+  offset: 0, 0
+  index: -1
+qiu
+  rotate: false
+  xy: 111, 126
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

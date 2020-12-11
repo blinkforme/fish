@@ -1,0 +1,9 @@
+//-----libs-begin-----
+loadLib("libs/laya.core661a7813.js")
+loadLib("libs/laya.ani02f26ddc.js")
+loadLib("libs/laya.htmle628adea.js")
+loadLib("libs/laya.particle680bc125.js")
+loadLib("libs/laya.ui4a836d7f.js")
+loadLib("libs/laya.device08a19f53.js")
+//-----libs-end-------
+loadLib("js/bundle717a6756.js")

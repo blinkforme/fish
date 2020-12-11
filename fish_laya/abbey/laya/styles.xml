@@ -1,0 +1,343 @@
+<res>
+   <item name="ui/fishType/bei.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=25,25,25,25" picType="0" scale="0"/>
+   <item name="ui/common_ex/bg_index0.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=50,50,50,50" picType="0"/>
+   <item name="ui/common_ex/bg_index1.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=30,30,30,30" picType="0"/>
+   <item name="ui/common_ex/bg_index2.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=40,40,40,40" picType="0" scale="0"/>
+   <item name="ui/common_ex/bg_index3.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=50,50,50,50" picType="0"/>
+   <item name="ui/common_ex/bg_index4.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=50,50,50,50" picType="0"/>
+   <item name="ui/fishType/jinbian.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=30,28,30,28" picType="0" scale="0"/>
+   <item name="ui/load/bg_index3.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=50,50,50,50" picType="0" scale="0"/>
+   <item name="ani/jinyu/jingyu_1.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/jinyu/jingyu_10.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/jinyu/jingyu_11.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/jinyu/jingyu_12.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/jinyu/jingyu_13.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/jinyu/jingyu_14.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/jinyu/jingyu_15.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/jinyu/jingyu_16.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/jinyu/jingyu_17.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/jinyu/jingyu_18.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/jinyu/jingyu_19.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/jinyu/jingyu_2.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/jinyu/jingyu_20.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/jinyu/jingyu_21.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/jinyu/jingyu_22.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/jinyu/jingyu_23.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/jinyu/jingyu_24.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/jinyu/jingyu_25.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/jinyu/jingyu_26.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/jinyu/jingyu_27.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/jinyu/jingyu_28.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/jinyu/jingyu_29.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/jinyu/jingyu_3.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/jinyu/jingyu_30.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/jinyu/jingyu_4.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/jinyu/jingyu_5.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/jinyu/jingyu_6.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/jinyu/jingyu_7.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/jinyu/jingyu_8.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/jinyu/jingyu_9.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ui/common_ex/bei.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=20,20,20,20" picType="0"/>
+   <item name="ui/common_ex/coin_bg.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=20,30,20,30" picType="0" scale="0"/>
+   <item name="ui/common_ex/shengji_heikuai.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=24,24,24,24" picType="0" scale="0"/>
+   <item name="ui/common_ex/task.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=30,30,30,30" picType="0"/>
+   <item name="ui/common_ex/tuceng.png" type="Image" compress="0" pack="1" quality="80" props="sizeGrid=10,0,10,0" picType="0" scale="0"/>
+   <item name="ui/common_ex/head_2.png" type="Image" compress="0" pack="1" quality="80" props="sizeGrid=0,180,0,180" picType="0" scale="0"/>
+   <item name="ui/fish/beishudi.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=20,30,20,30" picType="0" scale="0"/>
+   <item name="ui/fish/boss_txt_1.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ui/fish/boss_txt_2.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ui/fish/boss_txt_3.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ui/fish/boss_txt_4.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ui/fish/fish_tide.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ui/fish/font_1.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ui/fish/ku.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=20,20,20,20" picType="0"/>
+   <item name="ui/fish/paodi.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ui/common_ex/task_daily.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=25,25,39,25" picType="0" scale="0"/>
+   <item name="ui/fish/tuceng.png" type="Image" compress="0" pack="1" quality="80" props="sizeGrid=15,0,15,0" picType="0" scale="0"/>
+   <item name="ui/fish/welcome_bg.png" type="Image" compress="0" pack="1" quality="80" props="sizeGrid=0,0,0,0" picType="0" scale="0"/>
+   <item name="ui/fish/xuanz2.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=30,30,30,30" picType="0"/>
+   <item name="ui/fish/yy1_00.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=30,30,30,30" picType="0"/>
+   <item name="ui/activity/bg.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=50,50,50,50" picType="0"/>
+   <item name="ui/activity/bg_select.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=50,50,50,50" picType="0"/>
+   <item name="ui/activity/rank_bg.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=5,20,5,20" picType="0"/>
+   <item name="ui/common_ex/buyu_guizk2.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=5,30,5,30" picType="0" scale="0"/>
+   <item name="ui/common_ex/coin_bg.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=20,48,20,48" picType="0" scale="0"/>
+   <item name="ui/common/jiangchidi.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=15,40,15,40" picType="0" scale="0"/>
+   <item name="ui/common_ex/ku.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=20,20,20,20" picType="0"/>
+   <item name="ui/common_ex/jl_bg.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=22,22,22,22" picType="0"/>
+   <item name="ui/entryRoom/inputput.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=0,100,0,100" picType="0"/>
+   <item name="ui/exchange/bg.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=30,200,30,200" picType="0"/>
+   <item name="ui/exchange/kuang1.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=10,20,10,20" picType="0"/>
+   <item name="ui/common_ex/txt_bg.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=10,10,10,10" picType="0"/>
+   <item name="ui/common_ex/feixuanz1.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=15,15,15,15" picType="0"/>
+   <item name="ui/common_ex/p1.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=10,10,10,10" picType="0" scale="0"/>
+   <item name="ui/common_ex/p2.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=10,10,10,10" picType="0" scale="0"/>
+   <item name="ui/common_ex/p3.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=13,20,13,20" picType="0" scale="0"/>
+   <item name="ui/monthCard/yuek_di1.png" type="Image" compress="0" pack="1" quality="80" props="sizeGrid=200,50,200,50" picType="0"/>
+   <item name="ui/monthCard/yuek_di4.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ui/monthCard/yuek_di2.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=10,10,10,10" picType="0"/>
+   <item name="ui/monthCard/yuek_di3.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=5,10,5,10" picType="0"/>
+   <item name="ui/pack/beib_di1.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=25,25,25,25" picType="0"/>
+   <item name="ui/pack/beib_di2.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=25,25,25,25" picType="0"/>
+   <item name="ui/pack/beib_di3.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=30,30,30,30" picType="0"/>
+   <item name="ui/pack/beib_di4.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=25,25,25,25" picType="0"/>
+   <item name="ui/pack/beib_di5.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=15,15,15,15" picType="0"/>
+   <item name="ui/pack/bg.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=30,200,30,200" picType="0"/>
+   <item name="ui/pack/kuang1.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=15,15,15,15" picType="0"/>
+   <item name="ui/rank/k1.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=15,20,15,20" picType="0"/>
+   <item name="ui/rank/k2.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=15,20,15,20" picType="0"/>
+   <item name="ui/rank/k3.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=15,20,15,20" picType="0"/>
+   <item name="ui/rank/paih_zk1.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=25,25,25,25" picType="0"/>
+   <item name="ui/rank/paih_zk2.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=25,25,25,25" picType="0"/>
+   <item name="ui/rewardPage/jcjy.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=30,30,30,30" picType="0"/>
+   <item name="ui/rule/buyu_guizk.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=40,20,40,20" picType="0"/>
+   <item name="ani/haima/haima_1.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/haima/haima_10.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/haima/haima_11.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/haima/haima_12.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/haima/haima_13.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/haima/haima_14.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/haima/haima_15.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/haima/haima_16.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/haima/haima_17.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/haima/haima_18.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/haima/haima_19.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/haima/haima_2.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/haima/haima_20.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/haima/haima_21.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/haima/haima_22.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/haima/haima_23.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/haima/haima_24.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/haima/haima_25.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/haima/haima_26.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/haima/haima_27.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/haima/haima_28.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/haima/haima_3.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/haima/haima_4.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/haima/haima_5.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/haima/haima_6.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/haima/haima_7.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/haima/haima_8.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/haima/haima_9.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/zhangyu/zhangyu_1.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/zhangyu/zhangyu_10.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/zhangyu/zhangyu_11.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/zhangyu/zhangyu_12.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/zhangyu/zhangyu_13.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/zhangyu/zhangyu_14.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/zhangyu/zhangyu_15.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/zhangyu/zhangyu_16.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/zhangyu/zhangyu_17.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/zhangyu/zhangyu_18.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/zhangyu/zhangyu_19.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/zhangyu/zhangyu_2.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/zhangyu/zhangyu_20.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/zhangyu/zhangyu_21.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/zhangyu/zhangyu_22.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/zhangyu/zhangyu_23.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/zhangyu/zhangyu_24.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/zhangyu/zhangyu_25.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/zhangyu/zhangyu_26.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/zhangyu/zhangyu_27.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/zhangyu/zhangyu_28.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/zhangyu/zhangyu_29.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/zhangyu/zhangyu_3.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/zhangyu/zhangyu_30.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/zhangyu/zhangyu_4.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/zhangyu/zhangyu_5.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/zhangyu/zhangyu_6.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/zhangyu/zhangyu_7.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/zhangyu/zhangyu_8.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/zhangyu/zhangyu_9.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="spine/guang/25xuanzhuanguangxiao.atlas" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="spine/guang/25xuanzhuanguangxiao.json" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="spine/guang/25xuanzhuanguangxiao.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="spine/guang/25xuanzhuanguangxiao2.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="ui/fish/zhadanshuzidi.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=10,20,10,20" picType="0"/>
+   <item name="ui/fish/zhandou_xiaot.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=10,15,10,15" picType="0"/>
+   <item name="ani/paosheng/paosheng_1.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/paosheng/paosheng_10.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/paosheng/paosheng_11.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/paosheng/paosheng_12.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/paosheng/paosheng_13.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/paosheng/paosheng_14.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/paosheng/paosheng_15.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/paosheng/paosheng_2.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/paosheng/paosheng_3.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/paosheng/paosheng_4.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/paosheng/paosheng_5.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/paosheng/paosheng_6.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/paosheng/paosheng_7.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/paosheng/paosheng_8.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/paosheng/paosheng_9.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/paotai/paotai_1.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/paotai/paotai_10.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/paotai/paotai_11.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/paotai/paotai_12.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/paotai/paotai_13.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/paotai/paotai_14.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/paotai/paotai_15.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/paotai/paotai_2.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/paotai/paotai_3.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/paotai/paotai_4.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/paotai/paotai_5.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/paotai/paotai_6.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/paotai/paotai_7.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/paotai/paotai_8.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ani/paotai/paotai_9.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ui/shop/txt_bg.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=10,15,10,15" picType="0"/>
+   <item name="ui/exchange/duihuan_1.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=30,80,30,80" picType="0"/>
+   <item name="ui/welfare/fldh_libdi.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ui/welfare/fldh_shijian.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=10,10,10,10" picType="0"/>
+   <item name="ui/welfare/fldh_shenyu.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=14,20,14,20" picType="0"/>
+   <item name="ui/welfare/fldh_d.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=10,10,10,10" picType="0"/>
+   <item name="ui/welfare/card_p_bg.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=8,8,8,8" picType="0"/>
+   <item name="ui/welfare/huodong_xiaotiao.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=10,10,10,10" picType="0"/>
+   <item name="ui/activity/fldh_d.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=10,10,10,10" picType="0"/>
+   <item name="ui/activity/fldh_shenyu.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=15,15,15,15" picType="0"/>
+   <item name="ui/activity/fldh_shijian.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=15,15,15,15" picType="0"/>
+   <item name="ui/common_ex/yhsztiao.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=12,12,11,10" picType="0" scale="0"/>
+   <item name="ui/bank/kuang1.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=7,14,5,14" picType="0" scale="0"/>
+   <item name="ui/matchPage/biaotoudikaung.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=30,72,30,80" picType="0"/>
+   <item name="ui/matchPage/ditiao1.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=12,12,12,12" picType="0"/>
+   <item name="ui/match/biaotoudikaung.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=35,75,35,80" picType="0"/>
+   <item name="ui/match/ditiao1.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=12,12,12,12" picType="0"/>
+   <item name="ui/matchSettle/wupdi.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=15,15,15,15" picType="0"/>
+   <item name="ui/matchSettle/wenzdi.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=15,25,15,25" picType="0"/>
+   <item name="ui/match/rank_bg.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=10,30,10,30" picType="0"/>
+   <item name="ui/monthCard/sdai.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ui/monthCard/yuek_sxlb.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ui/monthCard/x.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ui/monthCard/yuek_di1.png" type="Image" compress="0" pack="1" quality="80" props="sizeGrid=250,70,250,70" picType="0"/>
+   <item name="ui/monthCard/yuek_di2.png" type="Image" compress="0" pack="1" quality="80" props="sizeGrid=24,13,12,13" picType="0" scale="0"/>
+   <item name="ui/monthCard/yuek_di3.png" type="Image" compress="0" pack="1" quality="80" props="sizeGrid=8,10,8,10" picType="0" scale="0"/>
+   <item name="ui/monthCard/yuek_di4.png" type="Image" compress="0" pack="1" quality="80" props="sizeGrid=1,0,1,0" picType="0" scale="0"/>
+   <item name="ui/monthCard/yuek_pp.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ui/monthCard/yuek_sc1.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ui/monthCard/yuek_sc2.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ui/pipei/buyu_guizk.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=30,30,30,30" picType="0"/>
+   <item name="ui/common_ex/buyu_guizk.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=40,26,40,26" picType="0"/>
+   <item name="ui/share/dixiakuang.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=50,50,50,50" picType="0"/>
+   <item name="ui/common_ex/wenzdikuang.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=8,35,8,35" picType="0"/>
+   <item name="ui/common_ex/zu40.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="spine/loading/YX_Loading.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="ui/common_ex/inputput.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=30,50,30,50" picType="0" scale="0"/>
+   <item name="spine/chuantoupao1/chuantoupao_01.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="spine/chuantoupao2/chuantoupao_02.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="spine/chujipao1/chujipao_01.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="spine/chujipao2/chujipao_02.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="spine/putongpaoEffect/H5_putongpao.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="spine/sandanpao1/sandanpao_01.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="spine/sandanpao2/sandanpao_02.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="spine/shushepaoEffect/H5_shushepao.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="spine/suoding/H5_suoding.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="spine/sushepao1/sushepao_01.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="spine/sushepao2/sushepao_02.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="spine/zuantoupao1/zuantoupao_01.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="spine/zuantoupao2/zuantoupao_02.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="ui/wdlogin/load.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ui/russia/rank_bg.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=5,30,5,30" picType="0"/>
+   <item name="ui/russia/bg1.png" type="Image" compress="0" pack="1" quality="80" props="sizeGrid=100,70,100,70" picType="0"/>
+   <item name="ui/russia/f1.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ui/russia/f3.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ui/russia/bg.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ui/russia/bg3.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=40,16,40,16" picType="0" scale="0"/>
+   <item name="ui/russia/bg_paiming.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="ui/russia/bg_pm.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=10,8,10,8" picType="0" scale="0"/>
+   <item name="ui/russia/bg_mypm.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=0,20,0,20" picType="0" scale="0"/>
+   <item name="ui/bank/f1.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ui/bank/btn_num.png" type="Button" compress="0" pack="0" quality="80" props="sizeGrid=0,30,0,30" picType="0"/>
+   <item name="spine/shijiebei/shijiebei.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="ui/noviceGuide/xsyd.png" type="Image" compress="0" pack="1" quality="80" props="sizeGrid=0,240,0,240" picType="0" scale="0"/>
+   <item name="ui/noviceGuide/fishandpaopao.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="ui/noviceGuide/yzcb.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="ui/bank/bg.png" type="Image" compress="0" pack="1" quality="80" props="sizeGrid=33,47,37,52" picType="0" scale="0"/>
+   <item name="ui/pack/yhsztiao.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=20,20,20,20" picType="0"/>
+   <item name="ui/noviceGuide/kuang_wz.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=20,20,20,20" picType="0"/>
+   <item name="ui/football/bg3.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=0,16,0,16" picType="0"/>
+   <item name="ui/russia/jb.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ui/russia/1_2.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ui/russia/fldh_shenyu.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=9,13,12,18" picType="0"/>
+   <item name="ui/russia/fldh_shijian.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=4,7,8,12" picType="0"/>
+   <item name="ui/russia/123.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ui/russia/1.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ui/russia/1_3.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=0,10,0,12" picType="0"/>
+   <item name="ui/russia/1_4.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=12,9,15,12" picType="0"/>
+   <item name="ui/russia/font-goalsscored.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="ui/russia/frame2.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="ui/russia/flaglfoor.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="ui/common_ex/shurukuang.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=0,10,0,12" picType="0"/>
+   <item name="ui/common_ex/yhsztiao.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=0,11,0,13" picType="0"/>
+   <item name="ui/subscription/bg2.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="ui/subscription/gifttxt.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="ui/subscription/erweima.jpg" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="ui/common/bg.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=13,100,22,100" picType="0" scale="0"/>
+   <item name="ui/common_ex/currency_bg.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=13,30,13,30" picType="0" scale="0"/>
+   <item name="ui/bank/shurukuang.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=15,38,19,38" picType="0" scale="0"/>
+   <item name="ui/common_ex/jiangchidi.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=15,40,15,40" picType="0" scale="0"/>
+   <item name="ui/fish/kuang.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=25,30,25,30" picType="0" scale="0"/>
+   <item name="ui/fish/progress_one.png" type="ProgressBar" compress="0" pack="0" quality="80" props="sizeGrid=3,3,3,3" picType="0" scale="0"/>
+   <item name="ui/common_ex/shuzhi.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=8,25,8,25" picType="0" scale="0"/>
+   <item name="ui/common_ex/coin_bg.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=18,32,16,32" picType="0" scale="0"/>
+   <item name="ui/mainPage/fishandpaopao.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=0,200,0,200" picType="0" scale="0"/>
+   <item name="spine/chujipao1/chujipao_001.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="spine/chujipao2/chujipao_002.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="ui/taskDaily/prograss.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=15,45,15,45" picType="0" scale="0"/>
+   <item name="ui/taskNew/prograss.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=1,45,1,45" picType="0" scale="0"/>
+   <item name="ui/taskNew/pop.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=25,40,25,40" picType="0" scale="0"/>
+   <item name="ui/pack/bg1.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=40,40,40,40" picType="0" scale="0"/>
+   <item name="spine/linjiang/H5_linjiang.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="spine/shanshepaoEffect/H5_shanshepao.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="spine/heidong/H5_heidong.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="spine/baozha/H5_baozha.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="spine/zhuanpan/H5_zhuanpan.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="wxlocal/gongg.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="ui/load/gongg.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="ui/useTicket/rank.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="ui/useTicket/img_beijing.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="ui/useTicket/rank_bg.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=0,130,0,139" picType="0" scale="0"/>
+   <item name="ui/useTicket/img_di_02.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=38,40,33,41" picType="0" scale="0"/>
+   <item name="ui/exchange/img_dhjl_xbd.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=34,30,11,31" picType="0" scale="0"/>
+   <item name="ui/exchange/img_dhjl_fg.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=0,230,0,230" picType="0" scale="0"/>
+   <item name="ui/common_ex/XSFL_board.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=6,31,19,28" picType="0" scale="0"/>
+   <item name="ui/changeSkin/img_huan_01.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=50,50,50,50" picType="0" scale="0"/>
+   <item name="ui/load/bg_index4.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=50,50,50,50" picType="0" scale="0"/>
+   <item name="ui/load/head_2.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=0,200,0,200" picType="0" scale="0"/>
+   <item name="ui/common_ex/head_1.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=0,170,0,170" picType="0" scale="0"/>
+   <item name="ui/common_ex/bg_index5.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=50,50,50,50" picType="0" scale="0"/>
+   <item name="ui/common_ex/bg_index6.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=40,40,40,40" picType="0" scale="0"/>
+   <item name="ui/useTicket/img_paihangbang.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=25,25,25,25" picType="0" scale="0"/>
+   <item name="ui/shop/img_zhenzhudi.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=13,30,13,30" picType="0" scale="0"/>
+   <item name="ui/common_ex/img_dhjl_xbd.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=25,30,25,30" picType="0" scale="0"/>
+   <item name="ui/common_ex/reward_mask.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=3,15,13,15" picType="0" scale="0"/>
+   <item name="spine/b_jinbi/H5_jinbidh.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="ui/shop/bg_ad.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="ui/common_ex/img_di_02.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=45,45,45,45" picType="0" scale="0"/>
+   <item name="ui/common_ex/img_di_03.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=0,40,0,40" picType="0" scale="0"/>
+   <item name="ui/firstCharge/bt_sj.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ui/dailygift/bt_mrlb.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ui/dailygift/img_di.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ui/dailygift/img_kuan.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=0,40,0,43" picType="0"/>
+   <item name="ui/collectLead/img_kuan.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=0,28,0,29" picType="0"/>
+   <item name="ui/collectLead/bt_mrlb.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ui/shortGift/img_di_01.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=20,20,20,20" picType="0" scale="0"/>
+   <item name="ui/shortGift/img_di_03.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=10,10,10,10" picType="0" scale="0"/>
+   <item name="ui/shortGift/img_kuang.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=25,25,25,25" picType="0" scale="0"/>
+   <item name="ui/common_ex/txt_bg.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=10,10,10,10" picType="0" scale="0"/>
+   <item name="ui/subscription/di.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=37,35,38,39" picType="0" scale="0"/>
+   <item name="ui/share/img_gzsm_xiaobiaoti_d.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=8,12,9,14" picType="0" scale="0"/>
+   <item name="ui/exchange/tab_real.png" type="Tab" compress="0" pack="0" quality="80" props="" picType="0" scale="0"/>
+   <item name="ui/red/img_haoli_01.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=0,26,0,26" picType="0" scale="0"/>
+   <item name="ui/quickRegister/quick_register.png" type="Sprite" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="ui/friend/img_k_03.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=13,27,16,22" picType="0" scale="0"/>
+   <item name="ui/common_ex/img_k_05.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=19,20,22,16" picType="0" scale="0"/>
+   <item name="ui/addFriend/img_k_04.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=12,31,14,32" picType="0" scale="0"/>
+   <item name="ui/common_ex/img_grxxd_taren.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=12,13,14,15" picType="0" scale="0"/>
+   <item name="ui/common_ex/img_grxxd_ziji.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=13,10,15,11" picType="0" scale="0"/>
+   <item name="ui/newMatch/bar2.png" type="ProgressBar" compress="0" pack="0" quality="80" props="sizeGrid=0,13,0,8" picType="0" scale="0"/>
+   <item name="ui/newMatch/bar1.png" type="ProgressBar" compress="0" pack="0" quality="80" props="sizeGrid=0,13,0,8" picType="0" scale="0"/>
+   <item name="ui/newMatch/img_jdt_04.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=3,12,13,13" picType="0" scale="0"/>
+   <item name="ui/newMatch/img_di_2.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=8,26,5,19" picType="0" scale="0"/>
+   <item name="ui/shop/card_p_bg.png" type="Sprite" compress="0" pack="0" quality="80" props="sizeGrid=0,10,0,10" picType="0" scale="0"/>
+   <item name="ui/fishType/boos.png" type="Sprite" compress="0" pack="0" quality="80" props="sizeGrid=30,60,40,60" picType="0" scale="0"/>
+</res>

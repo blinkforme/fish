@@ -1,0 +1,41 @@
+
+sanguanpao.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sanguanpao_paochi
+  rotate: false
+  xy: 217, 119
+  size: 98, 119
+  orig: 98, 119
+  offset: 0, 0
+  index: -1
+sanguanpao_paoguan
+  rotate: false
+  xy: 165, 62
+  size: 50, 176
+  orig: 50, 176
+  offset: 0, 0
+  index: -1
+sanguanpao_paoshen
+  rotate: false
+  xy: 2, 22
+  size: 161, 216
+  orig: 161, 216
+  offset: 0, 0
+  index: -1
+sanguanpao_paowei
+  rotate: false
+  xy: 317, 147
+  size: 80, 91
+  orig: 80, 91
+  offset: 0, 0
+  index: -1
+sanguanpao_quan
+  rotate: true
+  xy: 2, 2
+  size: 18, 36
+  orig: 18, 36
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,11 @@
+{
+  "deviceOrientation": "landscape",
+  "showStatusBar": false,
+  "networkTimeout": {
+    "request": 6000,
+    "connectSocket": 6000,
+    "uploadFile": 6000,
+    "downloadFile": 6000
+  },
+  "navigateToMiniProgramAppIdList": ["wxbba61adba3dd3c39","wx90aec9e807af5c52","wx4744c29d1fbd3e88"]
+}

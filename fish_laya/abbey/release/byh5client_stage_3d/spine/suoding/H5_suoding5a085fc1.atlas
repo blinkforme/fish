@@ -1,0 +1,13 @@
+
+H5_suoding.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H5_suoding
+  rotate: false
+  xy: 2, 2
+  size: 261, 261
+  orig: 261, 261
+  offset: 0, 0
+  index: -1

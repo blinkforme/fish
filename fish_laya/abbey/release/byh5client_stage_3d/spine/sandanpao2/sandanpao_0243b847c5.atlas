@@ -1,0 +1,83 @@
+
+sandanpao_02.png
+size: 206,206
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+paohuo2
+  rotate: false
+  xy: 144, 68
+  size: 46, 24
+  orig: 46, 24
+  offset: 0, 0
+  index: -1
+paohuo3
+  rotate: false
+  xy: 134, 134
+  size: 54, 33
+  orig: 54, 33
+  offset: 0, 0
+  index: -1
+sdp_02_001
+  rotate: false
+  xy: 2, 2
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+sdp_02_002
+  rotate: false
+  xy: 2, 114
+  size: 130, 90
+  orig: 130, 91
+  offset: 0, 0
+  index: -1
+sdp_02_003
+  rotate: false
+  xy: 144, 94
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+sdp_02_004
+  rotate: false
+  xy: 51, 20
+  size: 41, 44
+  orig: 42, 44
+  offset: 0, 0
+  index: -1
+sdp_02_006
+  rotate: false
+  xy: 134, 169
+  size: 63, 35
+  orig: 63, 35
+  offset: 0, 0
+  index: -1
+sdp_02_007
+  rotate: false
+  xy: 2, 50
+  size: 47, 62
+  orig: 47, 62
+  offset: 0, 0
+  index: -1
+sdp_02_009
+  rotate: false
+  xy: 98, 71
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+sdp_02_011
+  rotate: false
+  xy: 51, 66
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+sdp_02_013
+  rotate: false
+  xy: 94, 30
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1

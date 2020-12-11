@@ -1,0 +1,55 @@
+
+zuantoupao_01.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ztp_01_001
+  rotate: false
+  xy: 143, 38
+  size: 92, 88
+  orig: 92, 88
+  offset: 0, 0
+  index: -1
+ztp_01_002
+  rotate: true
+  xy: 2, 79
+  size: 47, 139
+  orig: 47, 139
+  offset: 0, 0
+  index: -1
+ztp_01_003
+  rotate: true
+  xy: 331, 79
+  size: 47, 73
+  orig: 47, 73
+  offset: 0, 0
+  index: -1
+ztp_01_004
+  rotate: false
+  xy: 96, 2
+  size: 27, 75
+  orig: 27, 75
+  offset: 0, 0
+  index: -1
+ztp_01_005
+  rotate: true
+  xy: 406, 99
+  size: 27, 75
+  orig: 27, 75
+  offset: 0, 0
+  index: -1
+ztp_01_006
+  rotate: true
+  xy: 2, 12
+  size: 65, 92
+  orig: 65, 92
+  offset: 0, 0
+  index: -1
+ztp_01_007
+  rotate: true
+  xy: 237, 61
+  size: 65, 92
+  orig: 65, 92
+  offset: 0, 0
+  index: -1

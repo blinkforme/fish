@@ -1,0 +1,11 @@
+bin
+.DS_Store
+*actionScriptProperties.lprj
+*abbey.as3proj.lprj
+.idea/
+.laya
+.settings/
+*.iml
+temp.js
+chrome
+debug.txt

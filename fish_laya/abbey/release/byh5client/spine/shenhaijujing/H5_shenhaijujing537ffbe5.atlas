@@ -1,0 +1,230 @@
+
+H5_shenhaijujing.png
+size: 636,636
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H5_shenhaijujing_gg1
+  rotate: false
+  xy: 575, 157
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+shenhaijujin_0003
+  rotate: false
+  xy: 614, 123
+  size: 20, 32
+  orig: 80, 85
+  offset: 1, 25
+  index: -1
+shenhaijujin_0004
+  rotate: false
+  xy: 534, 210
+  size: 31, 38
+  orig: 80, 85
+  offset: 1, 25
+  index: -1
+shenhaijujin_0005
+  rotate: false
+  xy: 489, 210
+  size: 43, 38
+  orig: 80, 85
+  offset: 1, 25
+  index: -1
+shenhaijujin_0006
+  rotate: false
+  xy: 519, 141
+  size: 54, 66
+  orig: 80, 85
+  offset: 1, 0
+  index: -1
+shenhaijujin_0007
+  rotate: false
+  xy: 568, 289
+  size: 65, 76
+  orig: 80, 85
+  offset: 1, 0
+  index: -1
+shenhaijujin_0008
+  rotate: false
+  xy: 532, 447
+  size: 76, 78
+  orig: 80, 85
+  offset: 1, 0
+  index: -1
+shenhaijujin_0009
+  rotate: false
+  xy: 288, 9
+  size: 79, 78
+  orig: 80, 85
+  offset: 1, 0
+  index: -1
+shenhaijujin_0010
+  rotate: false
+  xy: 369, 18
+  size: 79, 78
+  orig: 80, 85
+  offset: 1, 0
+  index: -1
+shenhaijujin_0011
+  rotate: false
+  xy: 438, 106
+  size: 79, 78
+  orig: 80, 85
+  offset: 1, 0
+  index: -1
+shenhaijujin_0012
+  rotate: false
+  xy: 450, 26
+  size: 79, 78
+  orig: 80, 85
+  offset: 1, 0
+  index: -1
+shenhaijujin_0013
+  rotate: false
+  xy: 489, 307
+  size: 77, 78
+  orig: 80, 85
+  offset: 3, 0
+  index: -1
+shenhaijujin_0014
+  rotate: false
+  xy: 568, 367
+  size: 66, 78
+  orig: 80, 85
+  offset: 14, 0
+  index: -1
+shenhaijujin_0015
+  rotate: false
+  xy: 568, 209
+  size: 56, 78
+  orig: 80, 85
+  offset: 24, 0
+  index: -1
+shenhaijujin_0016
+  rotate: false
+  xy: 531, 61
+  size: 45, 78
+  orig: 80, 85
+  offset: 35, 0
+  index: -1
+shenhaijujin_0017
+  rotate: false
+  xy: 578, 77
+  size: 34, 78
+  orig: 80, 85
+  offset: 46, 0
+  index: -1
+shenhaijujing_beike
+  rotate: false
+  xy: 2, 10
+  size: 165, 77
+  orig: 165, 77
+  offset: 0, 0
+  index: -1
+shenhaijujing_beikegai
+  rotate: false
+  xy: 350, 387
+  size: 166, 121
+  orig: 166, 121
+  offset: 0, 0
+  index: -1
+shenhaijujing_biaoti
+  rotate: false
+  xy: 2, 89
+  size: 344, 294
+  orig: 344, 294
+  offset: 0, 0
+  index: -1
+shenhaijujing_jb1
+  rotate: false
+  xy: 518, 422
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+shenhaijujing_jb2
+  rotate: false
+  xy: 518, 397
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+shenhaijujing_jb3
+  rotate: false
+  xy: 489, 189
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+shenhaijujing_jb4
+  rotate: false
+  xy: 613, 50
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+shenhaijujing_jb5
+  rotate: false
+  xy: 489, 250
+  size: 77, 55
+  orig: 77, 55
+  offset: 0, 0
+  index: -1
+shenhaijujing_jinbi
+  rotate: false
+  xy: 169, 2
+  size: 117, 85
+  orig: 117, 85
+  offset: 0, 0
+  index: -1
+shenhaijujing_pp
+  rotate: false
+  xy: 531, 21
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+shenhaijujing_qi1
+  rotate: false
+  xy: 350, 510
+  size: 180, 124
+  orig: 180, 124
+  offset: 0, 0
+  index: -1
+shenhaijujing_qi2
+  rotate: false
+  xy: 532, 527
+  size: 91, 107
+  orig: 91, 107
+  offset: 0, 0
+  index: -1
+shenhaijujing_shanhu
+  rotate: false
+  xy: 578, 16
+  size: 33, 59
+  orig: 33, 59
+  offset: 0, 0
+  index: -1
+shenhaijujing_shanhuhou
+  rotate: false
+  xy: 348, 98
+  size: 88, 86
+  orig: 88, 86
+  offset: 0, 0
+  index: -1
+shenhaijujing_shenti
+  rotate: false
+  xy: 2, 385
+  size: 346, 249
+  orig: 346, 249
+  offset: 0, 0
+  index: -1
+shenhaijujing_tanshi
+  rotate: false
+  xy: 348, 186
+  size: 139, 197
+  orig: 139, 197
+  offset: 0, 0
+  index: -1

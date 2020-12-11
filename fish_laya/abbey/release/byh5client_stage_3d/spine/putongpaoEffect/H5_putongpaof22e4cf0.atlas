@@ -1,0 +1,27 @@
+
+H5_putongpao.png
+size: 288,288
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H5_ptp0
+  rotate: false
+  xy: 2, 2
+  size: 132, 132
+  orig: 132, 132
+  offset: 0, 0
+  index: -1
+H5_ptp1
+  rotate: false
+  xy: 2, 136
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+paopao_ad_001_00
+  rotate: false
+  xy: 154, 256
+  size: 30, 30
+  orig: 32, 32
+  offset: 1, 1
+  index: -1

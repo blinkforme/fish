@@ -1,0 +1,1 @@
+loadLib("libs/laya-f576642097.core.js"),loadLib("libs/laya-ee83f7080f.ani.js"),loadLib("libs/laya-70e7cac628.html.js"),loadLib("libs/laya-4730f94b64.particle.js"),loadLib("libs/laya-2ee36440bf.ui.js"),loadLib("libs/laya-cb649653c0.device.js"),loadLib("js/bundle-b32bd8f8a9.js");

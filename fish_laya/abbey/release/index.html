@@ -1,0 +1,104 @@
+<html>
+
+<head>
+    <title>集结号捕鱼H5</title>
+    <meta charset='utf-8'/>
+    <meta name='renderer' content='webkit'/>
+    <meta name='viewport' content='width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no'
+    />
+    <meta name='apple-mobile-web-app-capable' content='yes'/>
+    <meta name='full-screen' content='true'/>
+    <meta name='x5-fullscreen' content='true'/>
+    <meta name='360-fullscreen' content='true'/>
+    <meta name='laya' screenorientation='landscape'/>
+    <meta http-equiv='expires' content='0'/>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'/>
+    <meta http-equiv='expires' content='0'/>
+    <meta http-equiv='Cache-Control' content='no-siteapp'/>
+</head>
+
+<body>
+<script type="text/javascript">
+    function getManifest() {
+        return {}
+    }
+
+    function copyToClipboard(text) {
+        var textField = document.createElement('textarea')
+        textField.innerText = text
+        document.body.appendChild(textField)
+        textField.select()
+        document.execCommand('copy')
+        textField.remove()
+        alert('复制成功');
+        return true
+    }
+
+    function findGetParameter(parameterName) {
+        var url = window.document.location.href.toString()
+        var u = url.split("?");
+        if (u[1]) {
+            u = u[1].split("&");
+            var gets = {};
+            for (var i in u) {
+                var j = u[i].split("=");
+                gets[j[0]] = j[1];
+            }
+            return gets[parameterName];
+        }
+    }
+
+    function loadLib(url) {
+        var script = document.createElement("script");
+        script.async = false;
+        script.src = url;
+        document.body.appendChild(script);
+    }
+
+    (function () {
+        var platform = findGetParameter('platform');
+        if (platform === 'yyly') {
+            var addScript = document.createElement('script');
+            addScript.src = 'https://11wan.yy.com/s/h5_sdk/gameH5Sdk.js';
+            addScript.onload = function () {
+                console.log("onload")
+            }
+            document.body.appendChild(addScript);
+
+        } else if (platform == '360h5') {
+            var addScript = document.createElement('script');
+            addScript.src = 'http://h5.wan.360.cn/h5-cp-sdk-loader.js';
+            addScript.onload = function () {
+                console.log("onload")
+            }
+            document.body.appendChild(addScript);
+        } else if (platform == 'yawy') {
+            var addScript = document.createElement('script');
+            addScript.src = 'https://static.12h5.com/yawy_sdk.js';
+            addScript.onload = function () {
+                window.yawysdk = new GameYawy({
+                    gameid: 100240
+                })
+                console.log("onload")
+            }
+            document.body.appendChild(addScript);
+        } else if (platform == 'baidu') {
+
+        } else if (platform == 'cocos') {
+            var addScript = document.createElement('script');
+            addScript.src = 'https://chukong.oss-cn-qingdao.aliyuncs.com/res/GameSDK.min.js';
+            addScript.onload = function () {
+                console.log("onload")
+            }
+            document.body.appendChild(addScript);
+        }
+        else {
+            console.log("direct load main.js")
+        }
+    })()
+</script>
+<script>document.write('<script src="index-a917d51897.js?t=' + new Date().getTime() + '"><\/script>')</script>
+
+</body>
+
+</html>

@@ -1,0 +1,9 @@
+集结号捕鱼h5 官方版本 2.0 9月份升级版本
+
+libs （目前是2.1版本）修改部分：
+1.修复ios的h5旋转适配问题   libs\laya\src\laya\display\Stage.as
+2.修复ios的h5双击问题,点击区域偏移问题  libs\laya\src\laya\display\input.as
+                                     libs\laya\src\laya\display\TextInput.as
+
+
+编译文件compile.js 目前用的是1.0.0版本

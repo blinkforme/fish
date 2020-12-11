@@ -1,0 +1,76 @@
+
+chuantoupao_02.png
+size: 214,214
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ctp_02_001
+  rotate: false
+  xy: 2, 130
+  size: 95, 82
+  orig: 95, 82
+  offset: 0, 0
+  index: -1
+ctp_02_002
+  rotate: false
+  xy: 72, 78
+  size: 22, 50
+  orig: 22, 50
+  offset: 0, 0
+  index: -1
+ctp_02_004
+  rotate: false
+  xy: 143, 163
+  size: 64, 49
+  orig: 64, 50
+  offset: 0, 0
+  index: -1
+ctp_02_006
+  rotate: false
+  xy: 2, 28
+  size: 68, 100
+  orig: 68, 100
+  offset: 0, 0
+  index: -1
+ctp_02_008
+  rotate: false
+  xy: 99, 121
+  size: 42, 91
+  orig: 42, 93
+  offset: 0, 2
+  index: -1
+ctp_02_010
+  rotate: false
+  xy: 132, 73
+  size: 58, 36
+  orig: 58, 36
+  offset: 0, 0
+  index: -1
+ctp_02_012
+  rotate: false
+  xy: 143, 111
+  size: 55, 50
+  orig: 55, 50
+  offset: 0, 0
+  index: -1
+ctp_02_014
+  rotate: false
+  xy: 96, 85
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+paohuo
+  rotate: false
+  xy: 2, 2
+  size: 46, 24
+  orig: 46, 25
+  offset: 0, 1
+  index: -1
+paohuo2
+  rotate: false
+  xy: 72, 43
+  size: 54, 33
+  orig: 54, 33
+  offset: 0, 0
+  index: -1

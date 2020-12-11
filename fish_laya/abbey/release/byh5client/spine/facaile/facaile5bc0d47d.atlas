@@ -1,0 +1,76 @@
+
+facaile.png
+size: 544,543
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001
+  rotate: false
+  xy: 210, 128
+  size: 39, 39
+  orig: 41, 41
+  offset: 1, 1
+  index: -1
+002
+  rotate: false
+  xy: 89, 55
+  size: 33, 29
+  orig: 35, 31
+  offset: 1, 1
+  index: -1
+003
+  rotate: false
+  xy: 2, 86
+  size: 206, 81
+  orig: 206, 81
+  offset: 0, 0
+  index: -1
+004
+  rotate: false
+  xy: 210, 42
+  size: 191, 74
+  orig: 191, 74
+  offset: 0, 0
+  index: -1
+005
+  rotate: false
+  xy: 2, 169
+  size: 248, 147
+  orig: 248, 147
+  offset: 0, 0
+  index: -1
+006
+  rotate: false
+  xy: 252, 118
+  size: 245, 198
+  orig: 245, 198
+  offset: 0, 0
+  index: -1
+007
+  rotate: false
+  xy: 2, 318
+  size: 312, 223
+  orig: 313, 225
+  offset: 0, 1
+  index: -1
+FX_dayusiwang_03_00001
+  rotate: false
+  xy: 403, 8
+  size: 139, 108
+  orig: 139, 108
+  offset: 0, 0
+  index: -1
+caiguang_00
+  rotate: false
+  xy: 2, 2
+  size: 85, 82
+  orig: 85, 82
+  offset: 0, 0
+  index: -1
+shexian
+  rotate: false
+  xy: 316, 403
+  size: 138, 138
+  orig: 150, 150
+  offset: 7, 7
+  index: -1

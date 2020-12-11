@@ -1,0 +1,153 @@
+
+denglongyu.png
+size: 1008,1006
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+denglongyu_01
+  rotate: false
+  xy: 513, 682
+  size: 240, 164
+  orig: 320, 320
+  offset: 55, 83
+  index: -1
+denglongyu_03
+  rotate: false
+  xy: 755, 648
+  size: 240, 170
+  orig: 320, 320
+  offset: 56, 78
+  index: -1
+denglongyu_05
+  rotate: false
+  xy: 504, 318
+  size: 237, 176
+  orig: 320, 320
+  offset: 59, 73
+  index: -1
+denglongyu_07
+  rotate: false
+  xy: 494, 137
+  size: 236, 179
+  orig: 320, 320
+  offset: 60, 69
+  index: -1
+denglongyu_09
+  rotate: false
+  xy: 743, 273
+  size: 234, 184
+  orig: 320, 320
+  offset: 60, 65
+  index: -1
+denglongyu_11
+  rotate: false
+  xy: 732, 85
+  size: 234, 186
+  orig: 320, 320
+  offset: 61, 62
+  index: -1
+denglongyu_13
+  rotate: false
+  xy: 752, 459
+  size: 239, 187
+  orig: 320, 320
+  offset: 63, 60
+  index: -1
+denglongyu_15
+  rotate: false
+  xy: 250, 150
+  size: 242, 185
+  orig: 320, 320
+  offset: 64, 60
+  index: -1
+denglongyu_17
+  rotate: false
+  xy: 2, 111
+  size: 245, 184
+  orig: 320, 320
+  offset: 64, 60
+  index: -1
+denglongyu_19
+  rotate: false
+  xy: 761, 820
+  size: 245, 184
+  orig: 320, 320
+  offset: 64, 60
+  index: -1
+denglongyu_21
+  rotate: false
+  xy: 258, 495
+  size: 244, 184
+  orig: 320, 320
+  offset: 64, 59
+  index: -1
+denglongyu_23
+  rotate: false
+  xy: 510, 496
+  size: 240, 184
+  orig: 320, 320
+  offset: 61, 59
+  index: -1
+denglongyu_25
+  rotate: false
+  xy: 2, 297
+  size: 246, 182
+  orig: 320, 320
+  offset: 58, 61
+  index: -1
+denglongyu_27
+  rotate: false
+  xy: 2, 481
+  size: 252, 178
+  orig: 320, 320
+  offset: 55, 64
+  index: -1
+denglongyu_29
+  rotate: false
+  xy: 2, 831
+  size: 254, 173
+  orig: 320, 320
+  offset: 52, 68
+  index: -1
+denglongyu_31
+  rotate: false
+  xy: 2, 661
+  size: 254, 168
+  orig: 320, 320
+  offset: 50, 72
+  index: -1
+denglongyu_33
+  rotate: false
+  xy: 258, 841
+  size: 253, 163
+  orig: 320, 320
+  offset: 48, 77
+  index: -1
+denglongyu_35
+  rotate: false
+  xy: 258, 681
+  size: 250, 158
+  orig: 320, 320
+  offset: 48, 82
+  index: -1
+denglongyu_37
+  rotate: false
+  xy: 513, 848
+  size: 246, 156
+  orig: 320, 320
+  offset: 50, 86
+  index: -1
+denglongyu_39
+  rotate: false
+  xy: 256, 337
+  size: 243, 156
+  orig: 320, 320
+  offset: 52, 87
+  index: -1
+glow_ad_01
+  rotate: false
+  xy: 2, 10
+  size: 99, 99
+  orig: 102, 102
+  offset: 1, 2
+  index: -1

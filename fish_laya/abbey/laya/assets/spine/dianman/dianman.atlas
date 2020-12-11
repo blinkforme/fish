@@ -1,0 +1,167 @@
+
+dianman.png
+size: 525,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dianman_01
+  rotate: false
+  xy: 2, 265
+  size: 216, 56
+  orig: 320, 320
+  offset: 58, 119
+  index: -1
+dianman_03
+  rotate: false
+  xy: 237, 464
+  size: 222, 57
+  orig: 320, 320
+  offset: 59, 119
+  index: -1
+dianman_05
+  rotate: false
+  xy: 2, 393
+  size: 229, 61
+  orig: 320, 320
+  offset: 60, 117
+  index: -1
+dianman_07
+  rotate: false
+  xy: 2, 456
+  size: 233, 65
+  orig: 320, 320
+  offset: 61, 115
+  index: -1
+dianman_09
+  rotate: false
+  xy: 2, 323
+  size: 227, 68
+  orig: 320, 320
+  offset: 62, 112
+  index: -1
+dianman_11
+  rotate: false
+  xy: 2, 194
+  size: 215, 69
+  orig: 320, 320
+  offset: 63, 111
+  index: -1
+dianman_13
+  rotate: false
+  xy: 2, 64
+  size: 207, 70
+  orig: 320, 320
+  offset: 63, 109
+  index: -1
+dianman_15
+  rotate: false
+  xy: 237, 393
+  size: 204, 69
+  orig: 320, 320
+  offset: 63, 109
+  index: -1
+dianman_17
+  rotate: false
+  xy: 231, 325
+  size: 204, 66
+  orig: 320, 320
+  offset: 62, 110
+  index: -1
+dianman_19
+  rotate: false
+  xy: 231, 260
+  size: 203, 63
+  orig: 320, 320
+  offset: 61, 112
+  index: -1
+dianman_21
+  rotate: false
+  xy: 219, 195
+  size: 202, 63
+  orig: 320, 320
+  offset: 60, 112
+  index: -1
+dianman_23
+  rotate: false
+  xy: 211, 76
+  size: 193, 58
+  orig: 320, 320
+  offset: 60, 114
+  index: -1
+dianman_25
+  rotate: false
+  xy: 211, 16
+  size: 185, 58
+  orig: 320, 320
+  offset: 59, 114
+  index: -1
+dianman_27
+  rotate: false
+  xy: 219, 136
+  size: 195, 57
+  orig: 320, 320
+  offset: 58, 115
+  index: -1
+dianman_29
+  rotate: false
+  xy: 2, 5
+  size: 204, 57
+  orig: 320, 320
+  offset: 58, 116
+  index: -1
+dianman_31
+  rotate: false
+  xy: 2, 136
+  size: 212, 56
+  orig: 320, 320
+  offset: 58, 118
+  index: -1
+glow_ad_01
+  rotate: false
+  xy: 423, 159
+  size: 99, 99
+  orig: 102, 102
+  offset: 1, 2
+  index: -1
+shandian_ad_005_00
+  rotate: false
+  xy: 398, 15
+  size: 61, 59
+  orig: 102, 68
+  offset: 0, 9
+  index: -1
+shandian_ad_005_01
+  rotate: false
+  xy: 436, 264
+  size: 67, 54
+  orig: 102, 68
+  offset: 33, 14
+  index: -1
+shandian_ad_005_02
+  rotate: true
+  xy: 461, 441
+  size: 80, 62
+  orig: 102, 68
+  offset: 0, 2
+  index: -1
+shandian_ad_005_03
+  rotate: false
+  xy: 437, 320
+  size: 72, 64
+  orig: 102, 68
+  offset: 28, 2
+  index: -1
+shandian_ad_005_04
+  rotate: false
+  xy: 416, 90
+  size: 93, 67
+  orig: 102, 68
+  offset: 7, 1
+  index: -1
+shandian_ad_005_05
+  rotate: false
+  xy: 443, 386
+  size: 79, 53
+  orig: 102, 68
+  offset: 6, 1
+  index: -1

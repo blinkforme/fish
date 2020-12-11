@@ -1,0 +1,55 @@
+
+H5_shushepao.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+h5_jsp01_diandian
+  rotate: false
+  xy: 312, 2
+  size: 148, 146
+  orig: 148, 146
+  offset: 0, 0
+  index: -1
+h5_jsp01_quan
+  rotate: true
+  xy: 172, 23
+  size: 162, 138
+  orig: 162, 138
+  offset: 0, 0
+  index: -1
+h5_jsp01_shexian
+  rotate: false
+  xy: 2, 19
+  size: 168, 166
+  orig: 168, 166
+  offset: 0, 0
+  index: -1
+h5_jsp02_dd
+  rotate: false
+  xy: 219, 305
+  size: 169, 158
+  orig: 169, 158
+  offset: 0, 0
+  index: -1
+h5_jsp02_guangquan
+  rotate: false
+  xy: 312, 150
+  size: 152, 153
+  orig: 152, 153
+  offset: 0, 0
+  index: -1
+h5_jsp02_quan
+  rotate: false
+  xy: 2, 187
+  size: 202, 83
+  orig: 202, 83
+  offset: 0, 0
+  index: -1
+h5_jsp02_shexian
+  rotate: false
+  xy: 2, 272
+  size: 215, 191
+  orig: 215, 191
+  offset: 0, 0
+  index: -1

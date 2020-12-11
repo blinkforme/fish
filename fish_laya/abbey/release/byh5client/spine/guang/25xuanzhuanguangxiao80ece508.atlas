@@ -1,0 +1,531 @@
+
+25xuanzhuanguangxiao.png
+size: 595,593
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lingqu/chengping/lingquguangxiao_00
+  rotate: false
+  xy: 133, 509
+  size: 125, 34
+  orig: 200, 90
+  offset: 5, 49
+  index: -1
+lingqu/chengping/lingquguangxiao_01
+  rotate: false
+  xy: 127, 464
+  size: 120, 43
+  orig: 200, 90
+  offset: 5, 40
+  index: -1
+lingqu/chengping/lingquguangxiao_02
+  rotate: false
+  xy: 2, 393
+  size: 105, 52
+  orig: 200, 90
+  offset: 5, 31
+  index: -1
+lingqu/chengping/lingquguangxiao_03
+  rotate: false
+  xy: 229, 357
+  size: 101, 60
+  orig: 200, 90
+  offset: 5, 23
+  index: -1
+lingqu/chengping/lingquguangxiao_04
+  rotate: false
+  xy: 2, 252
+  size: 93, 68
+  orig: 200, 90
+  offset: 5, 14
+  index: -1
+lingqu/chengping/lingquguangxiao_05
+  rotate: false
+  xy: 503, 270
+  size: 74, 75
+  orig: 200, 90
+  offset: 7, 7
+  index: -1
+lingqu/chengping/lingquguangxiao_06
+  rotate: false
+  xy: 83, 159
+  size: 69, 77
+  orig: 200, 90
+  offset: 7, 5
+  index: -1
+lingqu/chengping/lingquguangxiao_07
+  rotate: false
+  xy: 363, 194
+  size: 66, 77
+  orig: 200, 90
+  offset: 8, 4
+  index: -1
+lingqu/chengping/lingquguangxiao_08
+  rotate: false
+  xy: 321, 117
+  size: 56, 75
+  orig: 200, 90
+  offset: 8, 4
+  index: -1
+lingqu/chengping/lingquguangxiao_09
+  rotate: false
+  xy: 154, 132
+  size: 62, 75
+  orig: 200, 90
+  offset: 9, 4
+  index: -1
+lingqu/chengping/lingquguangxiao_10
+  rotate: false
+  xy: 2, 100
+  size: 69, 74
+  orig: 200, 90
+  offset: 9, 4
+  index: -1
+lingqu/chengping/lingquguangxiao_11
+  rotate: false
+  xy: 423, 273
+  size: 78, 72
+  orig: 200, 90
+  offset: 9, 5
+  index: -1
+lingqu/chengping/lingquguangxiao_12
+  rotate: false
+  xy: 332, 300
+  size: 89, 72
+  orig: 200, 90
+  offset: 8, 5
+  index: -1
+lingqu/chengping/lingquguangxiao_13
+  rotate: false
+  xy: 2, 322
+  size: 98, 69
+  orig: 200, 90
+  offset: 8, 5
+  index: -1
+lingqu/chengping/lingquguangxiao_14
+  rotate: false
+  xy: 477, 408
+  size: 109, 60
+  orig: 200, 90
+  offset: 7, 5
+  index: -1
+lingqu/chengping/lingquguangxiao_15
+  rotate: false
+  xy: 118, 418
+  size: 109, 44
+  orig: 200, 90
+  offset: 13, 4
+  index: -1
+lingqu/chengping/lingquguangxiao_16
+  rotate: false
+  xy: 398, 506
+  size: 121, 34
+  orig: 200, 90
+  offset: 13, 4
+  index: -1
+lingqu/chengping/lingquguangxiao_17
+  rotate: false
+  xy: 139, 545
+  size: 129, 24
+  orig: 200, 90
+  offset: 13, 5
+  index: -1
+lingqu/chengping/lingquguangxiao_18
+  rotate: false
+  xy: 278, 574
+  size: 134, 17
+  orig: 200, 90
+  offset: 16, 4
+  index: -1
+lingqu/chengping/lingquguangxiao_19
+  rotate: false
+  xy: 2, 578
+  size: 136, 13
+  orig: 200, 90
+  offset: 22, 5
+  index: -1
+lingqu/chengping/lingquguangxiao_20
+  rotate: false
+  xy: 414, 578
+  size: 133, 13
+  orig: 200, 90
+  offset: 35, 5
+  index: -1
+lingqu/chengping/lingquguangxiao_21
+  rotate: false
+  xy: 414, 562
+  size: 131, 14
+  orig: 200, 90
+  offset: 47, 4
+  index: -1
+lingqu/chengping/lingquguangxiao_22
+  rotate: false
+  xy: 140, 571
+  size: 136, 20
+  orig: 200, 90
+  offset: 49, 4
+  index: -1
+lingqu/chengping/lingquguangxiao_23
+  rotate: false
+  xy: 2, 551
+  size: 135, 25
+  orig: 200, 90
+  offset: 60, 6
+  index: -1
+武器光/wuqi_00
+  rotate: false
+  xy: 541, 56
+  size: 50, 50
+  orig: 52, 52
+  offset: 1, 1
+  index: -1
+武器光/wuqi_01
+  rotate: false
+  xy: 541, 56
+  size: 50, 50
+  orig: 52, 52
+  offset: 1, 1
+  index: -1
+武器光/wuqi_02
+  rotate: false
+  xy: 541, 4
+  size: 50, 50
+  orig: 52, 52
+  offset: 1, 1
+  index: -1
+武器光/wuqi_03
+  rotate: false
+  xy: 272, 65
+  size: 50, 50
+  orig: 52, 52
+  offset: 1, 1
+  index: -1
+武器光/wuqi_04
+  rotate: false
+  xy: 324, 65
+  size: 50, 50
+  orig: 52, 52
+  offset: 1, 1
+  index: -1
+武器光/wuqi_05
+  rotate: false
+  xy: 190, 41
+  size: 50, 50
+  orig: 52, 52
+  offset: 1, 1
+  index: -1
+武器光/wuqi_06
+  rotate: false
+  xy: 136, 26
+  size: 50, 50
+  orig: 52, 52
+  offset: 1, 1
+  index: -1
+武器光/wuqi_07
+  rotate: false
+  xy: 62, 24
+  size: 50, 50
+  orig: 52, 52
+  offset: 1, 1
+  index: -1
+武器光/wuqi_08
+  rotate: false
+  xy: 535, 354
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+武器光/wuqi_09
+  rotate: false
+  xy: 218, 93
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+武器光/wuqi_10
+  rotate: false
+  xy: 136, 78
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+武器光/wuqi_11
+  rotate: false
+  xy: 497, 216
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+武器光/wuqi_12
+  rotate: false
+  xy: 497, 162
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+武器光/wuqi_13
+  rotate: false
+  xy: 379, 137
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+武器光/wuqi_14
+  rotate: false
+  xy: 433, 137
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+武器光/wuqi_15
+  rotate: false
+  xy: 487, 108
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+武器光/wuqi_16
+  rotate: false
+  xy: 541, 108
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+武器光/wuqi_17
+  rotate: false
+  xy: 379, 83
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+武器光/wuqi_18
+  rotate: false
+  xy: 433, 83
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+武器光/wuqi_19
+  rotate: false
+  xy: 487, 54
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+武器光/wuqi_20
+  rotate: false
+  xy: 376, 29
+  size: 50, 52
+  orig: 52, 52
+  offset: 1, 0
+  index: -1
+武器光/wuqi_21
+  rotate: false
+  xy: 428, 31
+  size: 50, 50
+  orig: 52, 52
+  offset: 1, 1
+  index: -1
+武器光/wuqi_22
+  rotate: false
+  xy: 480, 2
+  size: 50, 50
+  orig: 52, 52
+  offset: 1, 1
+  index: -1
+武器光/wuqi_23
+  rotate: false
+  xy: 242, 13
+  size: 50, 50
+  orig: 52, 52
+  offset: 1, 1
+  index: -1
+武器光/wuqi_24
+  rotate: false
+  xy: 294, 13
+  size: 50, 50
+  orig: 52, 52
+  offset: 1, 1
+  index: -1
+每日特效/合成 1/成品/meir1_00
+  rotate: false
+  xy: 2, 447
+  size: 114, 35
+  orig: 200, 100
+  offset: 11, 56
+  index: -1
+每日特效/合成 1/成品/meir1_01
+  rotate: false
+  xy: 229, 419
+  size: 104, 43
+  orig: 200, 100
+  offset: 11, 48
+  index: -1
+每日特效/合成 1/成品/meir1_02
+  rotate: false
+  xy: 335, 374
+  size: 103, 51
+  orig: 200, 100
+  offset: 10, 40
+  index: -1
+每日特效/合成 1/成品/meir1_03
+  rotate: false
+  xy: 440, 347
+  size: 93, 59
+  orig: 200, 100
+  offset: 10, 32
+  index: -1
+每日特效/合成 1/成品/meir1_04
+  rotate: false
+  xy: 97, 238
+  size: 84, 66
+  orig: 200, 100
+  offset: 11, 25
+  index: -1
+每日特效/合成 1/成品/meir1_05
+  rotate: false
+  xy: 289, 224
+  size: 72, 74
+  orig: 200, 100
+  offset: 12, 17
+  index: -1
+每日特效/合成 1/成品/meir1_06
+  rotate: false
+  xy: 431, 191
+  size: 64, 80
+  orig: 200, 100
+  offset: 13, 11
+  index: -1
+每日特效/合成 1/成品/meir1_07
+  rotate: false
+  xy: 73, 76
+  size: 61, 81
+  orig: 200, 100
+  offset: 13, 10
+  index: -1
+每日特效/合成 1/成品/meir1_08
+  rotate: false
+  xy: 540, 479
+  size: 53, 81
+  orig: 200, 100
+  offset: 14, 9
+  index: -1
+每日特效/合成 1/成品/meir1_09
+  rotate: false
+  xy: 2, 18
+  size: 58, 80
+  orig: 200, 100
+  offset: 13, 9
+  index: -1
+每日特效/合成 1/成品/meir1_10
+  rotate: false
+  xy: 256, 147
+  size: 63, 75
+  orig: 200, 100
+  offset: 14, 9
+  index: -1
+每日特效/合成 1/成品/meir1_11
+  rotate: false
+  xy: 183, 209
+  size: 71, 75
+  orig: 200, 100
+  offset: 14, 9
+  index: -1
+每日特效/合成 1/成品/meir1_12
+  rotate: false
+  xy: 2, 176
+  size: 79, 74
+  orig: 200, 100
+  offset: 15, 9
+  index: -1
+每日特效/合成 1/成品/meir1_13
+  rotate: false
+  xy: 200, 286
+  size: 87, 69
+  orig: 200, 100
+  offset: 15, 9
+  index: -1
+每日特效/合成 1/成品/meir1_14
+  rotate: false
+  xy: 102, 306
+  size: 96, 60
+  orig: 200, 100
+  offset: 16, 9
+  index: -1
+每日特效/合成 1/成品/meir1_15
+  rotate: false
+  xy: 109, 368
+  size: 100, 48
+  orig: 200, 100
+  offset: 17, 9
+  index: -1
+每日特效/合成 1/成品/meir1_16
+  rotate: false
+  xy: 364, 427
+  size: 111, 41
+  orig: 200, 100
+  offset: 18, 9
+  index: -1
+每日特效/合成 1/成品/meir1_17
+  rotate: false
+  xy: 383, 470
+  size: 114, 34
+  orig: 200, 100
+  offset: 21, 9
+  index: -1
+每日特效/合成 1/成品/meir1_18
+  rotate: false
+  xy: 260, 504
+  size: 121, 24
+  orig: 200, 100
+  offset: 22, 9
+  index: -1
+每日特效/合成 1/成品/meir1_19
+  rotate: false
+  xy: 2, 517
+  size: 124, 15
+  orig: 200, 100
+  offset: 25, 9
+  index: -1
+每日特效/合成 1/成品/meir1_20
+  rotate: false
+  xy: 278, 557
+  size: 131, 15
+  orig: 200, 100
+  offset: 28, 9
+  index: -1
+每日特效/合成 1/成品/meir1_21
+  rotate: false
+  xy: 2, 534
+  size: 129, 15
+  orig: 200, 100
+  offset: 38, 9
+  index: -1
+每日特效/合成 1/成品/meir1_22
+  rotate: false
+  xy: 411, 542
+  size: 127, 18
+  orig: 200, 100
+  offset: 47, 9
+  index: -1
+每日特效/合成 1/成品/meir1_23
+  rotate: false
+  xy: 270, 530
+  size: 126, 25
+  orig: 200, 100
+  offset: 57, 9
+  index: -1
+每日特效/合成 1/成品/meir1_24
+  rotate: false
+  xy: 2, 484
+  size: 123, 31
+  orig: 200, 100
+  offset: 66, 10
+  index: -1
+每日特效/合成 1/成品/meir1_25
+  rotate: false
+  xy: 249, 464
+  size: 113, 38
+  orig: 200, 100
+  offset: 79, 11
+  index: -1

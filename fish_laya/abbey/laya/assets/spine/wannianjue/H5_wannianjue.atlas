@@ -1,0 +1,90 @@
+
+H5_wannianjue.png
+size: 626,626
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wannianjue_dandan1
+  rotate: false
+  xy: 539, 519
+  size: 85, 105
+  orig: 85, 105
+  offset: 0, 0
+  index: -1
+wannianjue_dd
+  rotate: false
+  xy: 419, 29
+  size: 88, 105
+  orig: 88, 105
+  offset: 0, 0
+  index: -1
+wannianjue_eee
+  rotate: false
+  xy: 171, 57
+  size: 46, 43
+  orig: 46, 43
+  offset: 0, 0
+  index: -1
+wannianjue_eyu
+  rotate: false
+  xy: 2, 102
+  size: 308, 219
+  orig: 308, 219
+  offset: 0, 0
+  index: -1
+wannianjue_hseyou
+  rotate: false
+  xy: 348, 395
+  size: 93, 27
+  orig: 93, 27
+  offset: 0, 0
+  index: -1
+wannianjue_jinbi
+  rotate: false
+  xy: 348, 424
+  size: 167, 49
+  orig: 167, 49
+  offset: 0, 0
+  index: -1
+wannianjue_pai
+  rotate: false
+  xy: 2, 323
+  size: 344, 301
+  orig: 344, 301
+  offset: 0, 0
+  index: -1
+wannianjue_shange
+  rotate: false
+  xy: 2, 12
+  size: 167, 88
+  orig: 167, 88
+  offset: 0, 0
+  index: -1
+wannianjue_shougu
+  rotate: false
+  xy: 348, 475
+  size: 189, 149
+  orig: 189, 149
+  offset: 0, 0
+  index: -1
+wannianjue_ya
+  rotate: false
+  xy: 517, 446
+  size: 15, 27
+  orig: 15, 27
+  offset: 0, 0
+  index: -1
+wannianjue_yezi
+  rotate: false
+  xy: 312, 136
+  size: 310, 185
+  orig: 310, 185
+  offset: 0, 0
+  index: -1
+wannianjue_zhuazi
+  rotate: false
+  xy: 312, 29
+  size: 105, 105
+  orig: 105, 105
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,7 @@
+bin/
+.laya/
+.laya
+wxminibyscr/
+.vscode/
+
+ENV.as

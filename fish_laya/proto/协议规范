@@ -1,0 +1,9 @@
+协议采用websocket
+请求链接 ws://url/accesstoken
+accesstoken 用户唯一标识
+协议规范
+协议原型
+{
+ "id":10000 //协议唯一标识
+ "a":xxx  //协议内容
+}

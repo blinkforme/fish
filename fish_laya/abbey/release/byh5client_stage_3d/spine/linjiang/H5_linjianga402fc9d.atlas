@@ -1,0 +1,20 @@
+
+H5_linjiang.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H5_linqu_guang
+  rotate: false
+  xy: 2, 88
+  size: 161, 148
+  orig: 161, 148
+  offset: 0, 0
+  index: -1
+H5_linqu_guangquan
+  rotate: false
+  xy: 2, 2
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1

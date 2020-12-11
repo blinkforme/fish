@@ -1,0 +1,62 @@
+
+H5_baozha.png
+size: 672,672
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0002
+  rotate: false
+  xy: 484, 481
+  size: 114, 113
+  orig: 124, 125
+  offset: 5, 6
+  index: -1
+H5_baozha1
+  rotate: false
+  xy: 242, 2
+  size: 202, 199
+  orig: 208, 199
+  offset: 4, 0
+  index: -1
+picV382_boom_huangJin_000
+  rotate: false
+  xy: 484, 596
+  size: 157, 74
+  orig: 245, 245
+  offset: 44, 85
+  index: -1
+picV382_boom_huangJin_001
+  rotate: false
+  xy: 2, 36
+  size: 238, 165
+  orig: 245, 245
+  offset: 3, 37
+  index: -1
+picV382_boom_huangJin_002
+  rotate: false
+  xy: 243, 213
+  size: 238, 223
+  orig: 245, 245
+  offset: 3, 8
+  index: -1
+picV382_boom_huangJin_003
+  rotate: false
+  xy: 2, 437
+  size: 239, 233
+  orig: 245, 245
+  offset: 3, 4
+  index: -1
+picV382_boom_huangJin_004
+  rotate: false
+  xy: 2, 203
+  size: 239, 232
+  orig: 245, 245
+  offset: 3, 3
+  index: -1
+picV382_boom_huangJin_005
+  rotate: false
+  xy: 243, 438
+  size: 239, 232
+  orig: 245, 245
+  offset: 3, 3
+  index: -1

@@ -1,0 +1,15 @@
+ precision mediump float; 
+            varying vec2 v_texcoord; 
+            varying vec4 v_color; 
+            uniform sampler2D texture; 
+            uniform float progress;
+            uniform vec4 uv_info; 
+            void main(){ 
+                vec2 pos = ((v_texcoord-uv_info.xy)/uv_info.zw - vec2(0.5,0.5))*256.0;
+                float radius = length(pos.xy);
+                float angle = -degrees(atan(pos.x, pos.y)) + 180.0;
+                float fa = radians(angle - progress * 360.0) * radius + 1.0;
+                fa = clamp(fa, 0.0, 1.0);\
+                vec4 t_color = texture2D(texture, v_texcoord); 
+                gl_FragColor = t_color.rgba * v_color.rgba * vec4(1,1,1,fa); 
+            }

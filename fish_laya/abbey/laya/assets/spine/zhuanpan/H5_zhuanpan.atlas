@@ -1,0 +1,41 @@
+
+H5_zhuanpan.png
+size: 472,470
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H5_baojin_jinbi
+  rotate: false
+  xy: 375, 166
+  size: 95, 118
+  orig: 95, 118
+  offset: 0, 0
+  index: -1
+a01
+  rotate: false
+  xy: 2, 227
+  size: 241, 241
+  orig: 241, 241
+  offset: 0, 0
+  index: -1
+a02
+  rotate: false
+  xy: 2, 33
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+a03
+  rotate: false
+  xy: 245, 286
+  size: 185, 182
+  orig: 185, 182
+  offset: 0, 0
+  index: -1
+a04
+  rotate: false
+  xy: 196, 45
+  size: 177, 180
+  orig: 185, 182
+  offset: 1, 2
+  index: -1

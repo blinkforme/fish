@@ -1,0 +1,20 @@
+
+H5_heidong.png
+size: 338,338
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H5_hei
+  rotate: false
+  xy: 2, 152
+  size: 184, 184
+  orig: 184, 184
+  offset: 0, 0
+  index: -1
+H5_heidong
+  rotate: false
+  xy: 2, 2
+  size: 150, 148
+  orig: 150, 150
+  offset: 0, 1
+  index: -1

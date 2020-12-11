@@ -1,0 +1,14 @@
+precision mediump float;
+varying vec2 v_texcoord;
+uniform sampler2D texture;
+uniform float u_time;
+uniform float range;
+uniform float sin_off;
+uniform float yrate;
+uniform float xrate;
+void main(){
+	float offset = sin(yrate * 3.141516 * v_texcoord.y + sin_off);
+	offset *= (sin(u_time * xrate) * range);
+	vec2 uv = fract(vec2(v_texcoord.x + offset, v_texcoord.y));
+    gl_FragColor = texture2D(texture, uv);
+}
